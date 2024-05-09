@@ -1,0 +1,4 @@
+﻿  problem10.cpp
+C:\Users\alper\source\repos\10\problem10.cpp(8,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alper\source\repos\10\problem10.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  10.vcxproj -> C:\Users\alper\source\repos\10\x64\Debug\10.exe
