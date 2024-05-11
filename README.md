@@ -13,10 +13,10 @@ Follow these steps to resolve any problems:  
 
 2. Find the relevant C++ file name and location for Command Line. 
 
-2.⁠ After find the location compile the file with the command in VS terminal or Comman Line⁠ : 
+3.⁠ After find the location compile the file with the command in VS terminal or Comman Line⁠ : 
 
 g++ Problem 1.cpp -o Problem 1  
 
-3.⁠ ⁠Run the resulting executable with the command in VS terminal or Comman Line : ⁠ 
+4.⁠ ⁠Run the resulting executable with the command in VS terminal or Comman Line : ⁠ 
 
 Problem 1 
