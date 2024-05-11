@@ -19,7 +19,7 @@ Follow these steps to resolve any problems:  
 
     g++ Problem 1.cpp -o Problem 1  
 
-4.⁠ ⁠Run the resulting executable with the command in VS terminal or Comman Line : ⁠ 
+4.⁠ ⁠Run the resulting executable with the command in VS terminal or Command Line : ⁠ 
 
     Problem 1 
 
