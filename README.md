@@ -20,3 +20,8 @@ Follow these steps to resolve any problems:  
 4.⁠ ⁠Run the resulting executable with the command in VS terminal or Comman Line : ⁠ 
 
     Problem 1 
+
+Note : This solution is for windows based systems. There are different commands for every system. 
+For example in Linux based systems to execute the code you need to type :		
+  ./Problem 1
+                                      
