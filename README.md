@@ -10,5 +10,7 @@ There is a separate C++ file for each problem. At the beginning of each file are
 Follow these steps to resolve any problems:  
 
 1.⁠ ⁠Open the relevant C++ file. 
+
 2.⁠ ⁠Compile the file: ⁠ g++ Problem 1.cpp -o Problem 1  
+
 3.⁠ ⁠Run the resulting executable: ⁠ ./Problem 1 
