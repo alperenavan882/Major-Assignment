@@ -7,4 +7,8 @@ Every project folder is inside the repo. There is a shortcut folder that you can
 # Command Line Instructions
 There is a separate C++ file for each problem. At the beginning of each file are instructions for solving a specific problem. ## Operating Instructions There is a separate C++ file for each problem. At the beginning of each file are instructions for solving a specific problem.
 
-Follow these steps to resolve any problems:  1.⁠ ⁠Open the relevant C++ file.  2.⁠ ⁠Compile the file: ⁠ g++ Problem 1 Greedy Algorithm.cpp -o Problem 1 Greedy Algorithm ⁠.  3.⁠ ⁠Run the resulting executable: ⁠ ./Problem 1 Greedy Algorithm ⁠.
+Follow these steps to resolve any problems:  
+
+1.⁠ ⁠Open the relevant C++ file. 
+2.⁠ ⁠Compile the file: ⁠ g++ Problem 1.cpp -o Problem 1  
+3.⁠ ⁠Run the resulting executable: ⁠ ./Problem 1 
