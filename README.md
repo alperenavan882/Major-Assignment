@@ -5,7 +5,7 @@ Every project folder is inside the repo. There is a shortcut folder that you can
 
 
 #  Operating From Command Line Instructions
-You can either open executables easilty with ./1There is a separate C++ file for each problem. At the beginning of each file are instructions for solving a specific problem.  There is a separate C++ file for each problem. At the beginning of each file are instructions for solving a specific problem.
+You can either open executables easily from folders also there is a separate C++ file for each problem. At the beginning of each file are instructions for solving a specific problem.  There is a separate C++ file for each problem. At the beginning of each file are instructions for solving a specific problem.
 
 Follow these steps to resolve any problems:  
 
